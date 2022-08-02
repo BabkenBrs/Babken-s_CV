@@ -7,4 +7,4 @@
 Пол - мужской
 
 ## Образование
-<img src = "hse.png">
+<img src = "hse.png" width = "100">
