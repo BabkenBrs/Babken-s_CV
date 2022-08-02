@@ -21,11 +21,11 @@
 <p align="left">Магистратура: Факультет прикладной математики и информатики, Modern state of Artificial Intelligence</p> 
 
 ## Дополнительное образование
-- **Машинное обучение 1** <p align="right">2017 - 2021</p>
+- **Машинное обучение 1** 
   Программа Факультета Компьютерных Наук ВШЭ, лектор - Соколов Евгений 
 - **Алгоритмы и Структуры данных**  
   - Тренировки по алгоритмам от Яндекса  
-  - Coursera "Algorithmic Toolbox" от University of California San Diego  
+  - Coursera "Algorithmic Toolbox" от University of California San Diego <p align="right">2017 - 2021</p> 
   - Coursera "Data Structures" от University of California San Diego  
 - **Нейронные сети и компьютерное зрение**  
   Курс на Stepik от Samsung Research Russia Open Education
