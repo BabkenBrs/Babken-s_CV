@@ -27,4 +27,5 @@
   - Тренировки по алгоритмам от Яндекса  
   - Coursera "Algorithmic Toolbox" от University of California San Diego  
   - Coursera "Data Structures" от University of California San Diego  
-
+- **Нейонные сети и компьютерное зрение**
+  Курс на Stepik от Samsung Research Russia Open Education
