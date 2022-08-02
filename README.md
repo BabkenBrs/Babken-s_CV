@@ -7,4 +7,4 @@
 Пол - мужской
 
 ## Образование
-<img align="right" src = "hse.png" width = "100"> Высшая Школа Экономики
+<img align="left" src = "hse.png" width = "100"> Высшая Школа Экономики
