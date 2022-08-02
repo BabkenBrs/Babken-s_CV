@@ -23,8 +23,8 @@
 ## Дополнительное образование
 - **Машинное обучение 1**  
   Программа Факультета Компьютерных Наук ВШЭ, лектор - Соколов Евгений 
-- **Алгоритмы и Структуры данных**
-  -Тренировки по алгоритмам от Яндекса  
-  -Coursera "Algorithmic Toolbox" от University of California San Diego  
-  -Coursera "Data Structures" от University of California San Diego  
+- **Алгоритмы и Структуры данных**  
+  - Тренировки по алгоритмам от Яндекса  
+  - Coursera "Algorithmic Toolbox" от University of California San Diego  
+  - Coursera "Data Structures" от University of California San Diego  
 
