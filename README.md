@@ -20,5 +20,6 @@
 
 <p align="left">Магистратура: Факультет прикладной математики и информатики, Modern state of Artificial Intelligence</p> 
 
+## Дополнительное образование
 
 
