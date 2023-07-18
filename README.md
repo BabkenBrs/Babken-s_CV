@@ -39,7 +39,10 @@
   - Coursera "Algorithmic Toolbox" от University of California San Diego 
   - Coursera "Data Structures" от University of California San Diego  
 - **Нейронные сети и компьютерное зрение**  
-  Курс на Stepik от Samsung Research Russia Open Education
+  - Курс на Stepik от Samsung Research Russia Open Education
+  - Проект классификации глаза (2023 год)
+    - проект во время которого удалось создать модель CNN, определяющую открыт глаз или закрыт  с определенной точностью метрики EER <= 0.05
+    ()
 
 ## Образовательные курсы
 - Алгоритмы и структуры данных
@@ -60,4 +63,4 @@
   - Английский (Intermediate/upper-Intermediate)
 
 ## Мой код
-С моим кодом вы можете ознакомиться в папке ML_classic
+С моим кодом вы можете ознакомиться в папке ML_classiс, а с проектом в Eye_Project
